@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">testingAPP</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Make GET/POST Request</string>
+    <string name="hello_world_2">View GET/DATA</string>
+    <string name="button_text_1">Fetch Data</string>
+    <string name="url_placeholder">Enter URL here</string>
+    <string name="title_activity_new">NewActivity</string>
+    <string name="title_activity_view_get_data">ViewGetData</string>
+    <string name="EXTRA_MESSAGE"></string>
+    <string name="goto_full_data_view">See in full!</string>
+    <string name="save_to_db">Save data!</string>
+
+</resources>
